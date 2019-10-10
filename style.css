@@ -22,7 +22,7 @@ right: 0;
 #showcase {
   text-align: center;
   background-color: #131218;
-  top: 40px;
+  margin-top: 45px;
 }
 
 ul {
@@ -227,7 +227,10 @@ label {
     height: 30px;
     width: 200px;
   }
-
+ 
+  ul{
+    margin: 2px;
+  }
   #showcase h1 {
     font-size: 2em;
   }
