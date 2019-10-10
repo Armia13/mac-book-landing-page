@@ -19,6 +19,12 @@ right: 0;
   background-color: #131218;
 }
 
+#showcase {
+  text-align: center;
+  background-color: #131218;
+  top: 40px;
+}
+
 ul {
   list-style: none;
   display: flex;
@@ -57,12 +63,7 @@ a {
   margin: 0px;
 }
 
-#showcase {
-  text-align: center;
-  background-color: #131218;
-  position: relative;
-  top: 40px;
-}
+
 #video {
   width: 80%;
   margin: 60px 0px;
